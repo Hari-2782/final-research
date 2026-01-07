@@ -1,0 +1,16 @@
+# Fusion Detection System - Requirements
+# Install with: pip install -r requirements.txt
+
+# Core dependencies
+ultralytics>=8.0.0
+opencv-python>=4.8.0
+numpy>=1.24.0
+torch>=2.0.0
+torchvision>=0.15.0
+
+# Optional but recommended for GPU acceleration
+# Install PyTorch with CUDA support from: https://pytorch.org/
+
+# Additional utilities
+Pillow>=10.0.0
+matplotlib>=3.7.0
